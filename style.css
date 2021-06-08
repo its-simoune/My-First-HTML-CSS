@@ -1,0 +1,20 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  color: cornflowerblue;
+  background-color: aliceblue;
+}
+
+h1 {
+  color: cadetblue;
+  text-align: center;
+  font-size: 3.5em;
+}
+
+h2 {
+  color: rgb(111, 141, 231);
+  text-align: left;
+}
+
+p {
+  color: rgba(107, 159, 228, 0.945);;
+}
